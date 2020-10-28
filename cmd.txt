@@ -5,3 +5,5 @@
    git add + commit
    3.git提交远程仓库
    git push jdk8-stream master
+拉取代码步骤：
+  git clone https://github.com/SletZh/jdk8.git
